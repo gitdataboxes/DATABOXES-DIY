@@ -1,3 +1,5 @@
+![by-sa](https://github.com/gitdataboxes/do/assets/168939164/6a9b413f-a30a-43bb-a5fe-3b27e6f7bd59)
+
 © 2024. This work is licensed via CC BY-SA 4.0.
 
 # You are free to:
