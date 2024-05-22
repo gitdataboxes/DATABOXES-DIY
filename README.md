@@ -1,7 +1,7 @@
 # DATABOXES-DIY
 IT management reduced to lifecycles of data, hardware and software
 
-### Primary Goal
+## Primary Goal
 Maintain important data across time on easily replaceable hardware/software
 ### Step 1 - Do an Upgrade Report
 - Assessment - Inventory, Status, Impact and Urgency
