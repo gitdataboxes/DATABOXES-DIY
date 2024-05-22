@@ -1,5 +1,5 @@
 # DATABOXES-DIY
-IT management reduced to data lifecycles and hardware/software lifecycles
+IT management reduced to lifecycles of data, hardware and software
 
 ### Primary Goal
 Maintain important data across time on easily replaceable hardware/software
