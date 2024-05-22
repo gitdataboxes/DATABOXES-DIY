@@ -22,5 +22,4 @@ Maintain important data across time on easily replaceable hardware/software
 
 *5-7 years is the typical lifespan of an upgrade followed by ongoing support, after that most systems are nearing EOL (End of Life)*
 
-![Toybox Table](Toybox-v1.md)
 
