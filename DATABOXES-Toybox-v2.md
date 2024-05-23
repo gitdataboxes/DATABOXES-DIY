@@ -12,7 +12,7 @@
 |           | Basic Dell Desktop                             | Dell Inspiron                |          | $500      | Dell            |
 |           | Mid-Range Dell Desktop                         | Dell Inspiron                |          | $1,000    | Dell            |
 |           | Advanced Dell Desktop                          | Dell Precision, Alienware    |          | $2,000    | Dell            |
-|           | Custom Build PC                                | Custom Build                 |          | $3000+    | DATABOXES.org   |
+|           | Custom Build PC                                | Custom Build                 |          | $3000+    | Custom          |
 |           |                                                |                              |          |           |                 |
 |  Network  | Wired Router                                   | Ubiquiti Edge X Router       |          | $60       | Ubiquiti        |
 |           | Network Switch (8-Port)                        | Netgear GS108                |          | $55       | Netgear         |
