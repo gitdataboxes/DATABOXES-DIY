@@ -6,7 +6,7 @@ Simple office IT management made simpler
 - [OAK-METHOD](#oak-method)
 - [UPGRADE-REPORTS](#upgrade-reports)
 - [INSTALLATIONS](#installations)
-- [TOYBOX](#toybox)
+- [LEGO-BLOCKS](#lego-blocks)
 - [SUPPORT](#support)
 
 ---
@@ -25,7 +25,7 @@ Some assumptions explained
 - On-Site hardware installation
 - Remote software installation
 
-# [TOYBOX](TOYBOX.md)
+# [LEGO-BLOCKS](LEGO-BLOCKS.md)
 A simple list of components
 
 # [SUPPORT](SUPPORT.md)
