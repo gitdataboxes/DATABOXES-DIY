@@ -1,1 +1,5 @@
-
+- Ordering hardware and software for installation
+- Backups of important existing data
+- Site Infrastructure (Internet service quality, site constraints and layout considerations, networking and power configurations)
+- On-Site hardware installation
+- Remote software installation
