@@ -1,5 +1,5 @@
 # DATABOXES-DIY
-Simple IT management made simpler
+Work in progress to create straight forward How-To on assessing, designing, installing and supporting basic information technology
 
 ### [OAK-METHOD](OAK-METHOD.md)
 Some assumptions explained
