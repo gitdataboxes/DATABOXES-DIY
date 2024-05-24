@@ -1,5 +1,5 @@
 # DATABOXES-DIY
-Simple office IT management made simpler
+Simple IT management made simpler
 
 ---
 ### TABLE OF CONTENTS
