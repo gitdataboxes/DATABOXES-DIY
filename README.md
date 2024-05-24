@@ -1,7 +1,6 @@
 # DATABOXES-DIY
 Simple IT management made simpler
 
----
 ### [OAK-METHOD](OAK-METHOD.md)
 Some assumptions explained
 
