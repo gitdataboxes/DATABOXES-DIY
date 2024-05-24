@@ -3,12 +3,11 @@ Simple office IT management made simpler
 
 ---
 ### TABLE OF CONTENTS
-- [OAK-METHOD]
-- [UPGRADE-REPORTS]
-- [INSTALLATIONS]
-- [TOYBOX]
+- [OAK-METHOD](oak-method)
+- [UPGRADE-REPORTS](#upgrade-reports)
+- [INSTALLATIONS](#installations)
+- [TOYBOX](#toybox)
 - [SUPPORT](#support)
-- [ARCHIVES](###archives)
 
 ---
 ### OAK METHOD
