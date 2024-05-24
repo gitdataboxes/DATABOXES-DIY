@@ -2,33 +2,25 @@
 Simple IT management made simpler
 
 ---
-### TABLE OF CONTENTS
-- [OAK-METHOD](#oak-method)
-- [UPGRADE-REPORTS](#upgrade-reports)
-- [INSTALLATIONS](#installations)
-- [LEGO-BLOCKS](#lego-blocks)
-- [SUPPORT](#support)
-
----
-# [OAK-METHOD](OAK-METHOD.md)
+### [OAK-METHOD](OAK-METHOD.md)
 Some assumptions explained
 
-# [UPGRADE-REPORTS](UPGRADE-REPORTS.md)
+### [UPGRADE-REPORTS](UPGRADE-REPORTS.md)
 - Assessment - Inventory, Status, Impact and Urgency
 - Goals - Map Assessment results to relevant Goals based on Status, Impact and Urgency
 - Upgrade Plans - Minimum, Recommended and Maximum Upgrade Plans based on Upgrade Report Assessment and Goals
 
-# [INSTALLATIONS](INSTALLATIONS.md)
+### [INSTALLATIONS](INSTALLATIONS.md)
 - Ordering hardware and software for installation
 - Backups of important existing data
 - Site Infrastructure (Internet service quality, site constraints and layout considerations, networking and power configurations)
 - On-Site hardware installation
 - Remote software installation
 
-# [LEGO-BLOCKS](LEGO-BLOCKS.md)
+### [LEGO-BLOCKS](LEGO-BLOCKS.md)
 A simple list of components
 
-# [SUPPORT](SUPPORT.md)
+### [SUPPORT](SUPPORT.md)
 - Remote IT Support
 - On-Site IT Support
 - Disaster Recovery Response
