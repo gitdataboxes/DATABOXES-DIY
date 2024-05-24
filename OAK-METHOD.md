@@ -1,1 +1,1 @@
-
+Some assumptions explained
