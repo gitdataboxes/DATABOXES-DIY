@@ -16,12 +16,10 @@
 <br>
 <br>
 
-# Assessment Desktop/Laptop
+# Assessment - Desktop/Laptop
 - The following table is a rough template for assessing Desktop/Laptop Computers by checking the status of 33 fundamental "component attributes"
 - Potential impact and recommended level of urgency listed for each component attribute
 - The results from this assessment can then be mapped to specific goals to help ensure effective deployment of resources based on relevant impact and urgency
-
-# Desktop/Laptop Assessment
 
 | Component Attributes                                      | YES | NO  | Impact | Description                                   | Urgency | Description                                  |
 | --------------------------------------------------------- | --- | --- | ------ | --------------------------------------------- | ------- | -------------------------------------------- |
@@ -67,9 +65,14 @@
 - **Impact** - Potential impact to normal operations
 - **Urgency** - Recommended time frame for resolving issues
 
+<br>
+<br>
+<br>
 
+# Assessment - Site
+- The following table is a rough template for assessing the Site infrastructure by checking the status of 51 fundamental "component attributes"
+- Potential impact and recommended level of urgency listed for each component attribute
+- The results from this assessment can then be mapped to specific goals to help ensure effective deployment of resources based on relevant impact and urgency
 
-### Desktop/Laptop Assessment
-
-
+site-assessment table here
 
