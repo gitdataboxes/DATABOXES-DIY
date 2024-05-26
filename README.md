@@ -5,8 +5,8 @@ Work in progress to create straight forward How-To on assessing, designing, inst
 Some assumptions explained
 
 ### [UPGRADE-REPORT](UPGRADE-REPORT.md)
-- [Assessment - Desktop/Laptop](UPGRADE-REPORT.md#assessment---desktoplaptop-may-2024) - Inventory, Status, Impact and Urgency
-- [Assessment - Site](UPGRADE-REPORT.md#assessment---site-may-2024) - Inventory, Status, Impact and Urgency
+- [Assessment - Desktop/Laptop](UPGRADE-REPORT.md#desktoplaptop-assessment-may-2024) - Inventory, Status, Impact and Urgency
+- [Assessment - Site](UPGRADE-REPORT.md#site-assessment-may-2024) - Inventory, Status, Impact and Urgency
 - Goals - Map Assessment results to relevant Goals based on Status, Impact and Urgency
 - Upgrade Plans - Minimum, Recommended and Maximum Upgrade Plans based on Upgrade Report Assessment and Goals
 
