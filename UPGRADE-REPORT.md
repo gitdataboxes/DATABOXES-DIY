@@ -61,7 +61,7 @@
 
 ---
 
-# Assessment - Site
+# Assessment - Site (May 2024)
 - The following table is a rough template for assessing the Site infrastructure by checking the status of 51 fundamental "component attributes"
 - Potential impact and recommended level of urgency listed for each component attribute
 - The results from this assessment can then be mapped to specific goals to help ensure effective deployment of resources based on relevant impact and urgency
