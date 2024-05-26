@@ -12,7 +12,7 @@
 - Recommended Upgrade Plans based on Upgrade Report Assessment and Goals
 - Maximum Upgrade Plans based on Upgrade Report Assessment and Goals
 
-# Assessment - Desktop/Laptop
+# Assessment - Desktop/Laptop (May 2024)
 - The following table is a rough template for assessing Desktop/Laptop Computers by checking the status of 33 fundamental "component attributes"
 - Potential impact and recommended level of urgency listed for each component attribute
 - The results from this assessment can then be mapped to specific goals to help ensure effective deployment of resources based on relevant impact and urgency
