@@ -127,6 +127,17 @@
 
 ---
 
+# Goals
+- Map Assessment results to relevant Goals based on Status, Impact and Urgency
+
+# Upgrade Plans
+- Minimum Upgrade Plans based on Upgrade Report Assessment and Goals
+- Recommended Upgrade Plans based on Upgrade Report Assessment and Goals
+- Maximum Upgrade Plans based on Upgrade Report Assessment and Goals
+
+
+
+
 
 <br>
 <br>
