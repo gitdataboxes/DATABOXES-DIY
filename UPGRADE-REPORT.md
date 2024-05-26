@@ -1,8 +1,8 @@
 # UPGRADE-REPORT
 
-### Assessment
-- **Desktop/Laptop** Inventory, Status, Impact and Urgency
-- **Site** Inventory, Status, Impact and Urgency
+### Assessments
+- **Desktop/Laptop Assessment** - Inventory, Status, Impact and Urgency
+- **Site Assessment** - Inventory, Status, Impact and Urgency
 
 ### Goals
 - Map Assessment results to relevant Goals based on Status, Impact and Urgency
@@ -12,7 +12,9 @@
 - Recommended Upgrade Plans based on Upgrade Report Assessment and Goals
 - Maximum Upgrade Plans based on Upgrade Report Assessment and Goals
 
-# Assessment - Desktop/Laptop (May 2024)
+# Assessments
+
+### Desktop/Laptop Assessment (May 2024)
 - The following table is a rough template for assessing Desktop/Laptop Computers by checking the status of 33 fundamental "component attributes"
 - Potential impact and recommended level of urgency listed for each component attribute
 - The results from this assessment can then be mapped to specific goals to help ensure effective deployment of resources based on relevant impact and urgency
@@ -53,7 +55,6 @@
 | Print/Scan/Copy performance adequate                                                                 | Yes | No  | High   | Ensures reliable printing                                             | High    | Critical for daily operations                |
 | Printer/Scanner/Copier less than 5-years of use                                                      | Yes | No  | Medium | Older printers may become unreliable                                  | Low     | Gradual wear, replacement can be planned     |
 
-### Table Headers
 - **Component Attributes** - Describes some attribute the component does or does not have
 - **YES/NO** - Yes component has this attribute, No component does not have this attribute
 - **Impact** - Potential impact to normal operations
@@ -61,7 +62,7 @@
 
 ---
 
-# Assessment - Site (May 2024)
+### Site Assessment (May 2024)
 - The following table is a rough template for assessing the Site infrastructure by checking the status of 51 fundamental "component attributes"
 - Potential impact and recommended level of urgency listed for each component attribute
 - The results from this assessment can then be mapped to specific goals to help ensure effective deployment of resources based on relevant impact and urgency
@@ -119,7 +120,6 @@
 | NAS backups validated                                        | Yes | No | High   | Ensures data integrity                                       | High    | Critical for data recovery                                         |
 | NAS less than 5-years of use                                 | Yes | No | Medium | NAS devices older than 5 years are less reliable             | Medium  | Immediate impact on data integrity                                 |
 
-### Table Headers
 - **Component Attributes** - Describes some attribute the component does or does not have
 - **YES/NO** - Yes component has this attribute, No component does not have this attribute
 - **Impact** - Potential impact to normal operations
