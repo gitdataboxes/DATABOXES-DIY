@@ -2,7 +2,7 @@
 Work in progress to create straight forward How-To on assessing, designing, installing and supporting basic information technology
 
 ### [OAK-METHOD](OAK-METHOD.md)
-Some assumptions explained
+Thoughts on fundamentals of using information technology
 
 ### [UPGRADE-REPORT](UPGRADE-REPORT.md)
 - [Assessment - Desktop/Laptop](UPGRADE-REPORT.md#desktoplaptop-assessment-may-2024) - Inventory, Status, Impact and Urgency
