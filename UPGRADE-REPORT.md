@@ -16,8 +16,8 @@
 
 ### Desktop/Laptop Assessment (May 2024)
 - The following table uses a simple YES/NO status check for assessing fundamental "component attributes"
-- Each component attribute includes estimated potential impact (high,med,low) and recommended level of urgency (high,med,low)
-- The results from this assessment can then be mapped to specific goals to help ensure effective deployment of resources based on relevant impact and urgency
+- Each component attribute includes level of urgency, potential impact, total and levels of response (1,2,3)
+- The results from this assessment can then be mapped to specific goals to help ensure effective deployment of resources based on urgency and relevant impact
 
 |        | YES/NO | **Component Attributes**                                                                   | **Urgency** | **Urgency Description**                                                                                                                                                                | **Impact** | **Impact Description**                                                   | **Total  <br>(U+I)** | **Level 1**                    | **Level 2**                   | **Level 3**                     |
 | ------ | ------ | ------------------------------------------------------------------------------------------ | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------ | -------------------- | ------------------------------ | ----------------------------- | ------------------------------- |
@@ -55,17 +55,21 @@
 | **32** |        | Printer/Scanner/Copier firmware up-to-date                                                 | Low         | Recommended, but not required                                                                                                                                                          | Medium     | Ensures security and performance updates                                 | 3                    | Update Print/Scan firmware     | New Laser Printer             |                                 |
 | **33** |        | Desktop/Laptop cables pathways clear of obstructions                                       | Low         | Reduces physical wear and risk of damage                                                                                                                                               | Low        | Obstructions could lead to potential damage over time                    | 2                    | New cable ties                 | New cable channels            |                                 |
 
-- **Component Attributes** - Describes some attribute the component does or does not have
 - **YES/NO** - Yes component has this attribute, No component does not have this attribute
-- **Impact** - Potential impact to normal operations
-- **Urgency** - Recommended time frame for resolving issues
+- **Component Attributes** - Describes some attribute the component does or does not have
+- **Urgency** - Level of Urgency (1-Low, 2-Medium, 3-High)
+- **Impact** - Potential Impact (1-Low, 2-Medium, 3-High)
+- **Total** - Level of Urgency plus Potential Impact (2-LU/LI, 3-LU/MI, 4-LU/HI, 4-MU/MI, 5-MU/HI, 6-HU/HI)
+- **Level 1** - Minimum Response
+- **Level 2** - Moderate Response
+- **Level 3** - Maximum Response
 
 ---
 
 ### Site Assessment (May 2024)
 - The following table uses a simple YES/NO status check for assessing fundamental "component attributes"
-- Each component attribute includes estimated potential impact (high,med,low) and recommended level of urgency (high,med,low)
-- The results from this assessment can then be mapped to specific goals to help ensure effective deployment of resources based on relevant impact and urgency
+- Each component attribute includes level of urgency, potential impact, total and levels of response (1,2,3)
+- The results from this assessment can then be mapped to specific goals to help ensure effective deployment of resources based on urgency and relevant impact
 
 |        | YES/NO | **Component Attributes**                                             | **Urgency** | **Urgency Description**                                                                    | **Impact** | **Impact Description**                                             | **Total  <br>(U+I)** | **Level 1**                            | **Level 2**                              | **Level 3** |
 | ------ | ------ | -------------------------------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------ | ---------- | ------------------------------------------------------------------ | -------------------- | -------------------------------------- | ---------------------------------------- | ----------- |
@@ -115,10 +119,14 @@
 | **44** |        | Patch panel labels clear and accurate                                | Low         | Accurate labels are essential for troubleshooting                                          | Medium     | Inaccurate labels cause confusion but not immediate failure        | 3                    | Label and organize Patch panel         | New Patch panel                          |             |
 | **45** |        | Networking cable pathways clear of obstructions                      | Low         | Reduces physical wear and risk of damage                                                   | Low        | Obstructions could lead to potential damage over time              | 2                    | New cable ties                         | New cable channels                       |             |
 
-- **Component Attributes** - Describes some attribute the component does or does not have
 - **YES/NO** - Yes component has this attribute, No component does not have this attribute
-- **Impact** - Potential impact to normal operations
-- **Urgency** - Recommended time frame for resolving issues
+- **Component Attributes** - Describes some attribute the component does or does not have
+- **Urgency** - Level of Urgency (1-Low, 2-Medium, 3-High)
+- **Impact** - Potential Impact (1-Low, 2-Medium, 3-High)
+- **Total** - Level of Urgency plus Potential Impact (2-LU/LI, 3-LU/MI, 4-LU/HI, 4-MU/MI, 5-MU/HI, 6-HU/HI)
+- **Level 1** - Minimum Response
+- **Level 2** - Moderate Response
+- **Level 3** - Maximum Response
 
 ---
 
